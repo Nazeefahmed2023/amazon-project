@@ -3,11 +3,7 @@
     margin: 0%;
     box-sizing:border-box ;
 }
-/* .container{
-    background:url(https://wallpapers.com/images/hd/cool-hd-purple-aesthetic-gaming-cover-hosd76z8joix4xs6.jpg)no-repeat center center/cover ;
-    width: 100%;
-    height: 100vh;
-} */
+
 body{
     font-family:"poppins" sans-serif;
     --color1:#fff;
